@@ -10,8 +10,7 @@
 
   <br />
 
-  <img src="<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/8de5b4f7-3acd-4001-bbe8-48fb872989d5" />
-" width="120" height="120" style="border-radius: 50%; border: 3px solid #00E5FF;" alt="ATTOISSE - Fondateur" />
+  <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/8de5b4f7-3acd-4001-bbe8-48fb872989d5"  style="border-radius: 50%; border: 3px solid #00E5FF;" alt="ATTOISSE - Fondateur" />
 
   <br />
 
